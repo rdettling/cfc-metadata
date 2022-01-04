@@ -1154,8 +1154,8 @@
     {
       "confTeams" : [
         {
-          "abbreviation" : "BOS",
-          "prestige" : "91",
+          "abbreviation" : "CLEM",
+          "prestige" : "92",
           "hexColor" : "#1F60A9",
           "rivalryNames" : {
 
@@ -1175,7 +1175,7 @@
             "contractYear" : "0"
           },
           "rival" : [
-            "VER"
+            "ND"
           ],
           "defCoordinator" : {
             "contractLength" : "1",
@@ -1206,12 +1206,12 @@
             "name" : "Markus Travino",
             "contractYear" : "0"
           },
-          "name" : "Boston St",
-          "state" : "Massachusetts"
+          "name" : "Clemson",
+          "state" : "South Carolina"
         },
         {
-          "abbreviation" : "HRS",
-          "prestige" : "95",
+          "abbreviation" : "DUKE",
+          "prestige" : "65",
           "hexColor" : "#E48130",
           "rivalryNames" : {
 
@@ -1231,7 +1231,7 @@
             "contractYear" : "2"
           },
           "rival" : [
-            "NJS"
+            "UNC"
           ],
           "defCoordinator" : {
             "contractLength" : "3",
@@ -1262,12 +1262,12 @@
             "name" : "Van Kragt",
             "contractYear" : "0"
           },
-          "name" : "Harrisburg",
-          "state" : "Pennsylvania"
+          "name" : "Duke",
+          "state" : "North Carolina"
         },
         {
-          "abbreviation" : "VRG",
-          "prestige" : "78",
+          "abbreviation" : "FSU",
+          "prestige" : "80",
           "hexColor" : "#006600",
           "rivalryNames" : {
 
@@ -1287,7 +1287,7 @@
             "contractYear" : "0"
           },
           "rival" : [
-            "APT"
+            "GT"
           ],
           "defCoordinator" : {
             "contractLength" : "4",
@@ -1318,12 +1318,12 @@
             "name" : "Dusty Clancy",
             "contractYear" : "3"
           },
-          "name" : "Virginia",
-          "state" : "Virginia"
+          "name" : "Florida State",
+          "state" : "Florida"
         },
         {
-          "abbreviation" : "APT",
-          "prestige" : "80",
+          "abbreviation" : "GT",
+          "prestige" : "75",
           "hexColor" : "#FFCC13",
           "rivalryNames" : {
 
@@ -1343,7 +1343,7 @@
             "contractYear" : "2"
           },
           "rival" : [
-            "VRG"
+            "FSU"
           ],
           "defCoordinator" : {
             "contractLength" : "3",
@@ -1374,12 +1374,12 @@
             "name" : "Blake Cuizon",
             "contractYear" : "2"
           },
-          "name" : "Appalachian Tech",
-          "state" : "Virginia"
+          "name" : "Georgia Tech",
+          "state" : "Georgia"
         },
         {
-          "abbreviation" : "NWJ",
-          "prestige" : "69",
+          "abbreviation" : "UMD",
+          "prestige" : "75",
           "hexColor" : "#FFFFCC",
           "rivalryNames" : {
 
@@ -1399,7 +1399,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "PEN"
+            "NCST"
           ],
           "defCoordinator" : {
             "contractLength" : "3",
@@ -1430,12 +1430,12 @@
             "name" : "Kayode Sabot",
             "contractYear" : "3"
           },
-          "name" : "New Jersey",
-          "state" : "New Jersey"
+          "name" : "Maryland",
+          "state" : "Maryland"
         },
         {
-          "abbreviation" : "NYC",
-          "prestige" : "46",
+          "abbreviation" : "NCST",
+          "prestige" : "75",
           "hexColor" : "#B4B6B8",
           "rivalryNames" : {
 
@@ -1455,7 +1455,7 @@
             "contractYear" : "0"
           },
           "rival" : [
-            "NYS"
+            "UMD"
           ],
           "defCoordinator" : {
             "contractLength" : "1",
@@ -1486,12 +1486,12 @@
             "name" : "Nelson Casola",
             "contractYear" : "4"
           },
-          "name" : "New York City",
-          "state" : "New York"
+          "name" : "NC State",
+          "state" : "North Carolina"
         },
         {
-          "abbreviation" : "NYS",
-          "prestige" : "90",
+          "abbreviation" : "UNC",
+          "prestige" : "80",
           "hexColor" : "#C5CCCF",
           "rivalryNames" : {
 
@@ -1511,7 +1511,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "NYC"
+            "DUKE"
           ],
           "defCoordinator" : {
             "contractLength" : "1",
@@ -1542,12 +1542,12 @@
             "name" : "Ryan Kluver",
             "contractYear" : "5"
           },
-          "name" : "New York St",
-          "state" : "New York"
+          "name" : "North Carolina",
+          "state" : "North Carolina"
         },
         {
-          "abbreviation" : "STU",
-          "prestige" : "45",
+          "abbreviation" : "ND",
+          "prestige" : "90",
           "hexColor" : "#B4985A",
           "rivalryNames" : {
 
@@ -1567,7 +1567,7 @@
             "contractYear" : "0"
           },
           "rival" : [
-            "MAI"
+            "CLEM"
           ],
           "defCoordinator" : {
             "contractLength" : "1",
@@ -1598,12 +1598,12 @@
             "name" : "Ricardo Jethva",
             "contractYear" : "5"
           },
-          "name" : "Steel City Univ",
-          "state" : "Pennsylvania"
+          "name" : "Notre Dame",
+          "state" : "Indiana"
         },
         {
-          "abbreviation" : "WDC",
-          "prestige" : "72",
+          "abbreviation" : "UVA",
+          "prestige" : "75",
           "hexColor" : "#C6A876",
           "rivalryNames" : {
 
@@ -1623,7 +1623,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "BAL"
+            "VT"
           ],
           "defCoordinator" : {
             "contractLength" : "1",
@@ -1654,12 +1654,12 @@
             "name" : "Lance Heeralall",
             "contractYear" : "5"
           },
-          "name" : "Washington DC",
-          "state" : "District of Columbia"
+          "name" : "Virginia",
+          "state" : "Virginia"
         },
         {
-          "abbreviation" : "RAL",
-          "prestige" : "68",
+          "abbreviation" : "VT",
+          "prestige" : "80",
           "hexColor" : "#B4985A",
           "rivalryNames" : {
 
@@ -1679,7 +1679,7 @@
             "contractYear" : "0"
           },
           "rival" : [
-            "DEL"
+            "UVA"
           ],
           "defCoordinator" : {
             "contractLength" : "3",
@@ -1710,19 +1710,19 @@
             "name" : "Deion Wildermuth",
             "contractYear" : "0"
           },
-          "name" : "Raleigh",
-          "state" : "North Carolina"
+          "name" : "Virginia Tech",
+          "state" : "Virginia"
         }
       ],
-      "confFullName" : "North",
-      "confPrestige" : "73",
-      "confName" : "NORTH"
+      "confFullName" : "ACC",
+      "confPrestige" : "82",
+      "confName" : "ACC"
     },
     {
       "confTeams" : [
         {
-          "abbreviation" : "DAL",
-          "prestige" : "95",
+          "abbreviation" : "BAY",
+          "prestige" : "82",
           "hexColor" : "#01539B",
           "rivalryNames" : {
 
@@ -1742,7 +1742,7 @@
             "contractYear" : "3"
           },
           "rival" : [
-            "HOU"
+            "TCU"
           ],
           "defCoordinator" : {
             "contractLength" : "4",
@@ -1773,12 +1773,12 @@
             "name" : "Chaz Berkovitz",
             "contractYear" : "0"
           },
-          "name" : "Dallas",
+          "name" : "Baylor",
           "state" : "Texas"
         },
         {
-          "abbreviation" : "CTN",
-          "prestige" : "90",
+          "abbreviation" : "ISU",
+          "prestige" : "80",
           "hexColor" : "#059033",
           "rivalryNames" : {
 
@@ -1798,7 +1798,7 @@
             "contractYear" : "2"
           },
           "rival" : [
-            "TOL"
+            "NEB"
           ],
           "defCoordinator" : {
             "contractLength" : "2",
@@ -1829,12 +1829,12 @@
             "name" : "Jeremiah Oby",
             "contractYear" : "2"
           },
-          "name" : "Canton",
-          "state" : "Ohio"
+          "name" : "Iowa State",
+          "state" : "Iowa"
         },
         {
-          "abbreviation" : "SOH",
-          "prestige" : "57",
+          "abbreviation" : "KU",
+          "prestige" : "60",
           "hexColor" : "#D4290F",
           "rivalryNames" : {
 
@@ -1854,7 +1854,7 @@
             "contractYear" : "0"
           },
           "rival" : [
-            "OXF"
+            "KSU"
           ],
           "defCoordinator" : {
             "contractLength" : "2",
@@ -1885,12 +1885,12 @@
             "name" : "Charles Arisumi",
             "contractYear" : "0"
           },
-          "name" : "Southern Ohio",
-          "state" : "Ohio"
+          "name" : "Kansas",
+          "state" : "Kansas"
         },
         {
-          "abbreviation" : "AMO",
-          "prestige" : "55",
+          "abbreviation" : "KSU",
+          "prestige" : "75",
           "hexColor" : "#F8B800",
           "rivalryNames" : {
 
@@ -1910,7 +1910,7 @@
             "contractYear" : "0"
           },
           "rival" : [
-            "PAS"
+            "KU"
           ],
           "defCoordinator" : {
             "contractLength" : "1",
@@ -1941,12 +1941,12 @@
             "name" : "Carl Mecias",
             "contractYear" : "1"
           },
-          "name" : "Alamo St",
-          "state" : "Texas"
+          "name" : "Kansas State",
+          "state" : "Kansas"
         },
         {
-          "abbreviation" : "NPT",
-          "prestige" : "85",
+          "abbreviation" : "NEB",
+          "prestige" : "75",
           "hexColor" : "#B33A4E",
           "rivalryNames" : {
 
@@ -1966,7 +1966,7 @@
             "contractYear" : "3"
           },
           "rival" : [
-            "SPR"
+            "ISU"
           ],
           "defCoordinator" : {
             "contractLength" : "1",
@@ -1997,12 +1997,12 @@
             "name" : "Anton Prince",
             "contractYear" : "1"
           },
-          "name" : "Newport",
-          "state" : "Ohio"
+          "name" : "Nebraska",
+          "state" : "Nebraska"
         },
         {
-          "abbreviation" : "NRM",
-          "prestige" : "85",
+          "abbreviation" : "OU",
+          "prestige" : "90",
           "hexColor" : "#D39B16",
           "rivalryNames" : {
 
@@ -2022,7 +2022,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "AUS"
+            "TEX"
           ],
           "defCoordinator" : {
             "contractLength" : "2",
@@ -2053,12 +2053,12 @@
             "name" : "Kody Wisseh",
             "contractYear" : "0"
           },
-          "name" : "Norman",
+          "name" : "Oklahoma",
           "state" : "Oklahoma"
         },
         {
-          "abbreviation" : "NYP",
-          "prestige" : "72",
+          "abbreviation" : "OKST",
+          "prestige" : "80",
           "hexColor" : "#949431",
           "rivalryNames" : {
 
@@ -2078,7 +2078,7 @@
             "contractYear" : "2"
           },
           "rival" : [
-            "CTN"
+            "TTU"
           ],
           "defCoordinator" : {
             "contractLength" : "1",
@@ -2109,12 +2109,12 @@
             "name" : "Ben Kulas",
             "contractYear" : "5"
           },
-          "name" : "New York Upstate",
-          "state" : "New York"
+          "name" : "Oklahoma State",
+          "state" : "Oklahoma"
         },
         {
-          "abbreviation" : "HOU",
-          "prestige" : "46",
+          "abbreviation" : "TCU",
+          "prestige" : "80",
           "hexColor" : "#929497",
           "rivalryNames" : {
 
@@ -2134,7 +2134,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "DAL"
+            "BAY"
           ],
           "defCoordinator" : {
             "contractLength" : "2",
@@ -2165,12 +2165,12 @@
             "name" : "Courtney Hussar",
             "contractYear" : "1"
           },
-          "name" : "Houston",
+          "name" : "Texas Christian",
           "state" : "Texas"
         },
         {
-          "abbreviation" : "SMC",
-          "prestige" : "43",
+          "abbreviation" : "TEX",
+          "prestige" : "85",
           "hexColor" : "#F47B20",
           "rivalryNames" : {
 
@@ -2190,7 +2190,7 @@
             "contractYear" : "2"
           },
           "rival" : [
-            "STO"
+            "OU"
           ],
           "defCoordinator" : {
             "contractLength" : "3",
@@ -2221,12 +2221,12 @@
             "name" : "Humberto Yakel",
             "contractYear" : "2"
           },
-          "name" : "San Marcos St",
+          "name" : "Texas",
           "state" : "Texas"
         },
         {
-          "abbreviation" : "IPS",
-          "prestige" : "61",
+          "abbreviation" : "TTU",
+          "prestige" : "75",
           "hexColor" : "#005D28",
           "rivalryNames" : {
 
@@ -2246,7 +2246,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "ILC"
+            "OKST"
           ],
           "defCoordinator" : {
             "contractLength" : "3",
@@ -2277,19 +2277,19 @@
             "name" : "Cam Celso",
             "contractYear" : "1"
           },
-          "name" : "Indianapolis",
-          "state" : "Indiana"
+          "name" : "Texas Tech",
+          "state" : "Texas"
         }
       ],
-      "confFullName" : "Cowboy",
-      "confPrestige" : "68",
-      "confName" : "COWBY"
+      "confFullName" : "Big 12",
+      "confPrestige" : "82",
+      "confName" : "XII"
     },
     {
       "confTeams" : [
         {
-          "abbreviation" : "PUL",
-          "prestige" : "95",
+          "abbreviation" : "ASU",
+          "prestige" : "80",
           "hexColor" : "#99CCFF",
           "rivalryNames" : {
 
@@ -2309,7 +2309,7 @@
             "contractYear" : "0"
           },
           "rival" : [
-            "SAN"
+            "ARI"
           ],
           "defCoordinator" : {
             "contractLength" : "4",
@@ -2340,12 +2340,12 @@
             "name" : "Benjamin Goessl",
             "contractYear" : "1"
           },
-          "name" : "Pullman",
-          "state" : "Washington"
+          "name" : "Arizona State",
+          "state" : "Arizona"
         },
         {
-          "abbreviation" : "OSN",
-          "prestige" : "86",
+          "abbreviation" : "ARI",
+          "prestige" : "70",
           "hexColor" : "#D59C3A",
           "rivalryNames" : {
 
@@ -2365,7 +2365,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "STA"
+            "ASU"
           ],
           "defCoordinator" : {
             "contractLength" : "2",
@@ -2396,12 +2396,12 @@
             "name" : "Ron Kaupp",
             "contractYear" : "1"
           },
-          "name" : "Oklahoma Sthrn",
-          "state" : "Oklahoma"
+          "name" : "Arizona",
+          "state" : "Arizona"
         },
         {
-          "abbreviation" : "MCO",
-          "prestige" : "78",
+          "abbreviation" : "CAL",
+          "prestige" : "75",
           "hexColor" : "#00694A",
           "rivalryNames" : {
 
@@ -2421,7 +2421,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "HTF"
+            "STAN"
           ],
           "defCoordinator" : {
             "contractLength" : "2",
@@ -2452,12 +2452,12 @@
             "name" : "Manny Manzione",
             "contractYear" : "1"
           },
-          "name" : "Orlando",
-          "state" : "Florida"
+          "name" : "California",
+          "state" : "California"
         },
         {
-          "abbreviation" : "MHT",
-          "prestige" : "80",
+          "abbreviation" : "CU",
+          "prestige" : "75",
           "hexColor" : "#FFF63E",
           "rivalryNames" : {
 
@@ -2477,7 +2477,7 @@
             "contractYear" : "0"
           },
           "rival" : [
-            "WCH"
+            "UTAH"
           ],
           "defCoordinator" : {
             "contractLength" : "1",
@@ -2508,12 +2508,12 @@
             "name" : "Zach Yoney",
             "contractYear" : "1"
           },
-          "name" : "Manhattan",
-          "state" : "Kansas"
+          "name" : "Colorado",
+          "state" : "Colorado"
         },
         {
-          "abbreviation" : "STA",
-          "prestige" : "40",
+          "abbreviation" : "ORE",
+          "prestige" : "85",
           "hexColor" : "#EECFA1",
           "rivalryNames" : {
 
@@ -2533,7 +2533,7 @@
             "contractYear" : "2"
           },
           "rival" : [
-            "OSN"
+            "WASH"
           ],
           "defCoordinator" : {
             "contractLength" : "2",
@@ -2564,12 +2564,12 @@
             "name" : "Chester Iannotti",
             "contractYear" : "3"
           },
-          "name" : "San Antonio St",
-          "state" : "Texas"
+          "name" : "Oregon",
+          "state" : "Oregon"
         },
         {
-          "abbreviation" : "WCH",
-          "prestige" : "57",
+          "abbreviation" : "USC",
+          "prestige" : "85",
           "hexColor" : "#CACC00",
           "rivalryNames" : {
 
@@ -2589,7 +2589,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "MHT"
+            "UCLA"
           ],
           "defCoordinator" : {
             "contractLength" : "2",
@@ -2620,12 +2620,12 @@
             "name" : "Rishard McCarley",
             "contractYear" : "3"
           },
-          "name" : "Wichita",
-          "state" : "Kansas"
+          "name" : "Southern California",
+          "state" : "California"
         },
         {
-          "abbreviation" : "EUG",
-          "prestige" : "64",
+          "abbreviation" : "STAN",
+          "prestige" : "80",
           "hexColor" : "#006B54",
           "rivalryNames" : {
 
@@ -2645,7 +2645,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "SEA"
+            "CAL"
           ],
           "defCoordinator" : {
             "contractLength" : "2",
@@ -2676,12 +2676,12 @@
             "name" : "Jesse Ravizee",
             "contractYear" : "1"
           },
-          "name" : "Eugene",
-          "state" : "Oregon"
+          "name" : "Stanford",
+          "state" : "California"
         },
         {
-          "abbreviation" : "ULA",
-          "prestige" : "61",
+          "abbreviation" : "UCLA",
+          "prestige" : "80",
           "hexColor" : "#6B3FA0",
           "rivalryNames" : {
 
@@ -2701,7 +2701,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "PAL"
+            "STAN"
           ],
           "defCoordinator" : {
             "contractLength" : "1",
@@ -2732,12 +2732,12 @@
             "name" : "Jim Rathfon",
             "contractYear" : "5"
           },
-          "name" : "Los Angeles",
+          "name" : "UCLA",
           "state" : "California"
         },
         {
-          "abbreviation" : "HOL",
-          "prestige" : "53",
+          "abbreviation" : "UTAH",
+          "prestige" : "80",
           "hexColor" : "#665C50",
           "rivalryNames" : {
 
@@ -2757,7 +2757,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "OAK"
+            "CU"
           ],
           "defCoordinator" : {
             "contractLength" : "3",
@@ -2788,12 +2788,12 @@
             "name" : "Trevor Biglin",
             "contractYear" : "1"
           },
-          "name" : "Hollywood St",
-          "state" : "California"
+          "name" : "Utah",
+          "state" : "Utah"
         },
         {
-          "abbreviation" : "CKY",
-          "prestige" : "89",
+          "abbreviation" : "WASH",
+          "prestige" : "80",
           "hexColor" : "#DE3444",
           "rivalryNames" : {
 
@@ -2813,7 +2813,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "SWK"
+            "ORE"
           ],
           "defCoordinator" : {
             "contractLength" : "1",
@@ -2844,13 +2844,13 @@
             "name" : "Matt Gokey",
             "contractYear" : "2"
           },
-          "name" : "Central Kentucky",
-          "state" : "Kentucky"
+          "name" : "Washington",
+          "state" : "Washington"
         }
       ],
-      "confFullName" : "Pacific",
-      "confPrestige" : "70",
-      "confName" : "PACIF"
+      "confFullName" : "Pac 12",
+      "confPrestige" : "80",
+      "confName" : "PAC"
     },
     {
       "confTeams" : [
