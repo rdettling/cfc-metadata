@@ -413,7 +413,7 @@
         },
         {
           "abbreviation" : "TENN",
-          "prestige" : "67",
+          "prestige" : "80",
           "hexColor" : "#B33A4E",
           "rivalryNames" : {
 
@@ -587,8 +587,8 @@
     {
       "confTeams" : [
         {
-          "abbreviation" : "UND",
-          "prestige" : "88",
+          "abbreviation" : "ILL",
+          "prestige" : "70",
           "hexColor" : "#F58026",
           "rivalryNames" : {
 
@@ -608,7 +608,7 @@
             "contractYear" : "0"
           },
           "rival" : [
-            "RVR"
+            "NU"
           ],
           "defCoordinator" : {
             "contractLength" : "1",
@@ -639,12 +639,12 @@
             "name" : "Damarco Fleer",
             "contractYear" : "1"
           },
-          "name" : "North Dakota",
-          "state" : "North Dakota"
+          "name" : "Illinois",
+          "state" : "Illinois"
         },
         {
-          "abbreviation" : "CLB",
-          "prestige" : "65",
+          "abbreviation" : "IU",
+          "prestige" : "70",
           "hexColor" : "#EE3A42",
           "rivalryNames" : {
 
@@ -664,7 +664,7 @@
             "contractYear" : "2"
           },
           "rival" : [
-            "AAR"
+            "PUR"
           ],
           "defCoordinator" : {
             "contractLength" : "4",
@@ -695,12 +695,12 @@
             "name" : "Carl Donning",
             "contractYear" : "3"
           },
-          "name" : "Columbus",
-          "state" : "Ohio"
+          "name" : "Indiana",
+          "state" : "Indiana"
         },
         {
-          "abbreviation" : "BOI",
-          "prestige" : "87",
+          "abbreviation" : "IOWA",
+          "prestige" : "80",
           "hexColor" : "#FBB088",
           "rivalryNames" : {
 
@@ -720,7 +720,7 @@
             "contractYear" : "0"
           },
           "rival" : [
-            "FRE"
+            "MSU"
           ],
           "defCoordinator" : {
             "contractLength" : "1",
@@ -751,12 +751,12 @@
             "name" : "Oscar Clunes",
             "contractYear" : "4"
           },
-          "name" : "Boise",
-          "state" : "Idaho"
+          "name" : "Iowa",
+          "state" : "Iowa"
         },
         {
-          "abbreviation" : "FCA",
-          "prestige" : "95",
+          "abbreviation" : "MSU",
+          "prestige" : "80",
           "hexColor" : "#009297",
           "rivalryNames" : {
 
@@ -776,7 +776,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "CLS"
+            "IOWA"
           ],
           "defCoordinator" : {
             "contractLength" : "4",
@@ -807,12 +807,12 @@
             "name" : "Jamel Harl",
             "contractYear" : "3"
           },
-          "name" : "Fort Collins",
-          "state" : "Colorado"
+          "name" : "Michigan State",
+          "state" : "Michigan"
         },
         {
-          "abbreviation" : "LAN",
-          "prestige" : "90",
+          "abbreviation" : "MICH",
+          "prestige" : "88",
           "hexColor" : "#9B8348",
           "rivalryNames" : {
 
@@ -832,7 +832,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "MIN"
+            "OSU"
           ],
           "defCoordinator" : {
             "contractLength" : "3",
@@ -863,11 +863,11 @@
             "name" : "Matthew Greenfelder",
             "contractYear" : "3"
           },
-          "name" : "Lansing",
+          "name" : "Michigan",
           "state" : "Michigan"
         },
         {
-          "abbreviation" : "FRE",
+          "abbreviation" : "MINN",
           "prestige" : "80",
           "hexColor" : "#008C75",
           "rivalryNames" : {
@@ -888,7 +888,7 @@
             "contractYear" : "2"
           },
           "rival" : [
-            "BOI"
+            "WISC"
           ],
           "defCoordinator" : {
             "contractLength" : "3",
@@ -919,12 +919,12 @@
             "name" : "Tommy Frentzel",
             "contractYear" : "2"
           },
-          "name" : "Fresno",
-          "state" : "California"
+          "name" : "Minnesota",
+          "state" : "Minnesota"
         },
         {
-          "abbreviation" : "MAD",
-          "prestige" : "49",
+          "abbreviation" : "NU",
+          "prestige" : "75",
           "hexColor" : "#CCCCCC",
           "rivalryNames" : {
 
@@ -944,7 +944,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "BLO"
+            "ILL"
           ],
           "defCoordinator" : {
             "contractLength" : "2",
@@ -975,12 +975,12 @@
             "name" : "Jameson Hofius",
             "contractYear" : "4"
           },
-          "name" : "Madison",
-          "state" : "Wisconsin"
+          "name" : "Northwestern",
+          "state" : "Illinois"
         },
         {
-          "abbreviation" : "RNO",
-          "prestige" : "67",
+          "abbreviation" : "OSU",
+          "prestige" : "92",
           "hexColor" : "#FCD116",
           "rivalryNames" : {
 
@@ -1000,7 +1000,7 @@
             "contractYear" : "0"
           },
           "rival" : [
-            "PRO"
+            "MICH"
           ],
           "defCoordinator" : {
             "contractLength" : "1",
@@ -1031,12 +1031,12 @@
             "name" : "Andy Robertson",
             "contractYear" : "2"
           },
-          "name" : "Reno",
-          "state" : "Nevada"
+          "name" : "Ohio State",
+          "state" : "Ohio"
         },
         {
-          "abbreviation" : "PRO",
-          "prestige" : "65",
+          "abbreviation" : "PUR",
+          "prestige" : "75",
           "hexColor" : "#E2A253",
           "rivalryNames" : {
 
@@ -1056,7 +1056,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "RNO"
+            "IU"
           ],
           "defCoordinator" : {
             "contractLength" : "1",
@@ -1087,12 +1087,12 @@
             "name" : "Ryan Becket",
             "contractYear" : "1"
           },
-          "name" : "Provo",
-          "state" : "Utah"
+          "name" : "Purdue",
+          "state" : "Indiana"
         },
         {
-          "abbreviation" : "SAC",
-          "prestige" : "66",
+          "abbreviation" : "WISC",
+          "prestige" : "85",
           "hexColor" : "#BFCFD8",
           "rivalryNames" : {
 
@@ -1112,7 +1112,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "SJC"
+            "MINN"
           ],
           "defCoordinator" : {
             "contractLength" : "3",
@@ -1143,13 +1143,13 @@
             "name" : "Ty Hett",
             "contractYear" : "1"
           },
-          "name" : "Sacramento",
-          "state" : "California"
+          "name" : "Wisconsin",
+          "state" : "Wisconsin"
         }
       ],
-      "confFullName" : "Lakes",
-      "confPrestige" : "75",
-      "confName" : "LAKES"
+      "confFullName" : "Big Ten",
+      "confPrestige" : "85",
+      "confName" : "B1G"
     },
     {
       "confTeams" : [
