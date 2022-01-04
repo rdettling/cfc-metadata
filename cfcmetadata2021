@@ -133,7 +133,7 @@
         },
         {
           "abbreviation" : "FLA",
-          "prestige" : "90",
+          "prestige" : "88",
           "hexColor" : "#ADD8E6",
           "rivalryNames" : {
 
@@ -357,7 +357,7 @@
         },
         {
           "abbreviation" : "MISS",
-          "prestige" : "80",
+          "prestige" : "75",
           "hexColor" : "#AF8706",
           "rivalryNames" : {
 
