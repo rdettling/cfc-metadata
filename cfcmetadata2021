@@ -468,7 +468,7 @@
           "state" : "Tennessee"
         },
         {
-          "abbreviation" : "A&M",
+          "abbreviation" : "TAM",
           "prestige" : "85",
           "hexColor" : "#FBC52B",
           "rivalryNames" : {
@@ -2855,8 +2855,8 @@
     {
       "confTeams" : [
         {
-          "abbreviation" : "STL",
-          "prestige" : "86",
+          "abbreviation" : "BC",
+          "prestige" : "75",
           "hexColor" : "#629181",
           "rivalryNames" : {
 
@@ -2876,7 +2876,7 @@
             "contractYear" : "0"
           },
           "rival" : [
-            "MFB"
+            "WAKE"
           ],
           "defCoordinator" : {
             "contractLength" : "1",
@@ -2907,12 +2907,12 @@
             "name" : "Terry Hunton",
             "contractYear" : "0"
           },
-          "name" : "St Louis",
-          "state" : "Missouri"
+          "name" : "Boston College",
+          "state" : "Massachusetts"
         },
         {
-          "abbreviation" : "SAL",
-          "prestige" : "93",
+          "abbreviation" : "CIN",
+          "prestige" : "80",
           "hexColor" : "#E61731",
           "rivalryNames" : {
 
@@ -2932,7 +2932,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "SDY"
+            "LOU"
           ],
           "defCoordinator" : {
             "contractLength" : "3",
@@ -2963,12 +2963,12 @@
             "name" : "Bruce Fillion",
             "contractYear" : "1"
           },
-          "name" : "Salt Lake St",
-          "state" : "Utah"
+          "name" : "Cincinnati",
+          "state" : "Ohio"
         },
         {
-          "abbreviation" : "BOU",
-          "prestige" : "71",
+          "abbreviation" : "LOU",
+          "prestige" : "75",
           "hexColor" : "#BFCFD8",
           "rivalryNames" : {
 
@@ -2988,7 +2988,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "CME"
+            "CIN"
           ],
           "defCoordinator" : {
             "contractLength" : "1",
@@ -3019,12 +3019,12 @@
             "name" : "Ray Thoben",
             "contractYear" : "6"
           },
-          "name" : "Boulder",
-          "state" : "Colorado"
+          "name" : "Louisville",
+          "state" : "Kentucky"
         },
         {
-          "abbreviation" : "YEL",
-          "prestige" : "81",
+          "abbreviation" : "MIA",
+          "prestige" : "85",
           "hexColor" : "#A8936B",
           "rivalryNames" : {
 
@@ -3044,7 +3044,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "ALB"
+            "PSU"
           ],
           "defCoordinator" : {
             "contractLength" : "2",
@@ -3075,12 +3075,12 @@
             "name" : "Justin Vincent",
             "contractYear" : "2"
           },
-          "name" : "Yellowstone St",
-          "state" : "Wyoming"
+          "name" : "Miami",
+          "state" : "Florida"
         },
         {
-          "abbreviation" : "PHO",
-          "prestige" : "62",
+          "abbreviation" : "PSU",
+          "prestige" : "85",
           "hexColor" : "#FFC425",
           "rivalryNames" : {
 
@@ -3100,7 +3100,7 @@
             "contractYear" : "0"
           },
           "rival" : [
-            "LSV"
+            "MIA"
           ],
           "defCoordinator" : {
             "contractLength" : "3",
@@ -3131,12 +3131,12 @@
             "name" : "Ken Makin",
             "contractYear" : "1"
           },
-          "name" : "Phoenix",
-          "state" : "Arizona"
+          "name" : "Penn State",
+          "state" : "Pennsylvania"
         },
         {
-          "abbreviation" : "GFS",
-          "prestige" : "61",
+          "abbreviation" : "PITT",
+          "prestige" : "80",
           "hexColor" : "#633194",
           "rivalryNames" : {
 
@@ -3156,7 +3156,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "JCK"
+            "WVU"
           ],
           "defCoordinator" : {
             "contractLength" : "1",
@@ -3187,12 +3187,12 @@
             "name" : "Peter Dollyhigh",
             "contractYear" : "1"
           },
-          "name" : "Gulf St",
-          "state" : "Mississippi"
+          "name" : "Pittsburgh",
+          "state" : "Pennsylvania"
         },
         {
-          "abbreviation" : "KSI",
-          "prestige" : "49",
+          "abbreviation" : "RUT",
+          "prestige" : "70",
           "hexColor" : "#808080",
           "rivalryNames" : {
 
@@ -3212,7 +3212,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "MAK"
+            "SYR"
           ],
           "defCoordinator" : {
             "contractLength" : "1",
@@ -3243,12 +3243,12 @@
             "name" : "Carter Toomes",
             "contractYear" : "4"
           },
-          "name" : "Kansas Intl",
-          "state" : "Kansas"
+          "name" : "Rutgers",
+          "state" : "New Jersey"
         },
         {
-          "abbreviation" : "MON",
-          "prestige" : "40",
+          "abbreviation" : "SYR",
+          "prestige" : "75",
           "hexColor" : "#AE3800",
           "rivalryNames" : {
 
@@ -3268,7 +3268,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "CHY"
+            "RUT"
           ],
           "defCoordinator" : {
             "contractLength" : "3",
@@ -3299,12 +3299,12 @@
             "name" : "Pete Piller",
             "contractYear" : "1"
           },
-          "name" : "Montana",
-          "state" : "Montana"
+          "name" : "Syracuse",
+          "state" : "New York"
         },
         {
-          "abbreviation" : "MFB",
-          "prestige" : "42",
+          "abbreviation" : "WAKE",
+          "prestige" : "75",
           "hexColor" : "#BABCBE",
           "rivalryNames" : {
 
@@ -3324,7 +3324,7 @@
             "contractYear" : "2"
           },
           "rival" : [
-            "STL"
+            "BC"
           ],
           "defCoordinator" : {
             "contractLength" : "2",
@@ -3355,12 +3355,12 @@
             "name" : "Issac Matrone",
             "contractYear" : "5"
           },
-          "name" : "Murfeesboro",
-          "state" : "Tennessee"
+          "name" : "Wake Forest",
+          "state" : "North Carolina"
         },
         {
-          "abbreviation" : "LSV",
-          "prestige" : "50",
+          "abbreviation" : "WVU",
+          "prestige" : "80",
           "hexColor" : "#FF642A",
           "rivalryNames" : {
 
@@ -3380,7 +3380,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "PHO"
+            "PITT"
           ],
           "defCoordinator" : {
             "contractLength" : "3",
@@ -3411,13 +3411,13 @@
             "name" : "Aaron McPeak",
             "contractYear" : "4"
           },
-          "name" : "Las Vegas",
-          "state" : "Nevada"
+          "name" : "West Virginia",
+          "state" : "West Virginia"
         }
       ],
-      "confFullName" : "Mountain",
-      "confPrestige" : "63",
-      "confName" : "MOUNT"
+      "confFullName" : "Big East",
+      "confPrestige" : "80",
+      "confName" : "EAST"
     },
     {
       "confTeams" : [
