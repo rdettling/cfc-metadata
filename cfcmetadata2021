@@ -22,7 +22,7 @@
         {
           "abbreviation" : "BAMA",
           "prestige" : "95",
-          "hexColor" : "#a60c31",
+          "hexColor" : "9E1B32",
           "rivalryNames" : {
 
           },
@@ -78,7 +78,7 @@
         {
           "abbreviation" : "AUB",
           "prestige" : "85",
-          "hexColor" : "#FFBD29",
+          "hexColor" : "0C2340",
           "rivalryNames" : {
 
           },
@@ -134,7 +134,7 @@
         {
           "abbreviation" : "FLA",
           "prestige" : "88",
-          "hexColor" : "#ADD8E6",
+          "hexColor" : "#0021A5",
           "rivalryNames" : {
 
           },
@@ -190,7 +190,7 @@
         {
           "abbreviation" : "UGA",
           "prestige" : "92",
-          "hexColor" : "#50C878",
+          "hexColor" : "#BA0C2F",
           "rivalryNames" : {
 
           },
@@ -246,7 +246,7 @@
         {
           "abbreviation" : "KEN",
           "prestige" : "75",
-          "hexColor" : "#E8112D",
+          "hexColor" : "#0033A0",
           "rivalryNames" : {
 
           },
@@ -302,7 +302,7 @@
         {
           "abbreviation" : "LSU",
           "prestige" : "90",
-          "hexColor" : "#FFC700",
+          "hexColor" : "#461D7C",
           "rivalryNames" : {
 
           },
@@ -358,7 +358,7 @@
         {
           "abbreviation" : "MISS",
           "prestige" : "75",
-          "hexColor" : "#AF8706",
+          "hexColor" : "#CE1126",
           "rivalryNames" : {
 
           },
@@ -414,7 +414,7 @@
         {
           "abbreviation" : "TENN",
           "prestige" : "80",
-          "hexColor" : "#B33A4E",
+          "hexColor" : "#FF8200",
           "rivalryNames" : {
 
           },
@@ -470,7 +470,7 @@
         {
           "abbreviation" : "TAM",
           "prestige" : "85",
-          "hexColor" : "#FBC52B",
+          "hexColor" : "#500000",
           "rivalryNames" : {
 
           },
@@ -526,7 +526,7 @@
         {
           "abbreviation" : "VAN",
           "prestige" : "65",
-          "hexColor" : "#AEA460",
+          "hexColor" : "#866D4B",
           "rivalryNames" : {
 
           },
