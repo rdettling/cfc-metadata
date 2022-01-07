@@ -589,7 +589,7 @@
         {
           "abbreviation" : "ILL",
           "prestige" : "70",
-          "hexColor" : "#F58026",
+          "hexColor" : "#E84A27",
           "rivalryNames" : {
 
           },
@@ -645,7 +645,7 @@
         {
           "abbreviation" : "IU",
           "prestige" : "70",
-          "hexColor" : "#EE3A42",
+          "hexColor" : "#990000",
           "rivalryNames" : {
 
           },
@@ -701,7 +701,7 @@
         {
           "abbreviation" : "IOWA",
           "prestige" : "80",
-          "hexColor" : "#FBB088",
+          "hexColor" : "#FFCD00",
           "rivalryNames" : {
 
           },
@@ -757,7 +757,7 @@
         {
           "abbreviation" : "MSU",
           "prestige" : "80",
-          "hexColor" : "#009297",
+          "hexColor" : "#18453B",
           "rivalryNames" : {
 
           },
@@ -813,7 +813,7 @@
         {
           "abbreviation" : "MICH",
           "prestige" : "88",
-          "hexColor" : "#9B8348",
+          "hexColor" : "#00274C",
           "rivalryNames" : {
 
           },
@@ -869,7 +869,7 @@
         {
           "abbreviation" : "MINN",
           "prestige" : "80",
-          "hexColor" : "#008C75",
+          "hexColor" : "#7A0019",
           "rivalryNames" : {
 
           },
@@ -925,7 +925,7 @@
         {
           "abbreviation" : "NU",
           "prestige" : "75",
-          "hexColor" : "#CCCCCC",
+          "hexColor" : "#4E2A84",
           "rivalryNames" : {
 
           },
@@ -981,7 +981,7 @@
         {
           "abbreviation" : "OSU",
           "prestige" : "92",
-          "hexColor" : "#FCD116",
+          "hexColor" : "#BB0000",
           "rivalryNames" : {
 
           },
@@ -1037,7 +1037,7 @@
         {
           "abbreviation" : "PUR",
           "prestige" : "75",
-          "hexColor" : "#E2A253",
+          "hexColor" : "#CEB888",
           "rivalryNames" : {
 
           },
@@ -1093,7 +1093,7 @@
         {
           "abbreviation" : "WISC",
           "prestige" : "85",
-          "hexColor" : "#BFCFD8",
+          "hexColor" : "#C5050C",
           "rivalryNames" : {
 
           },
@@ -1156,7 +1156,7 @@
         {
           "abbreviation" : "CLEM",
           "prestige" : "92",
-          "hexColor" : "#1F60A9",
+          "hexColor" : "#F56600",
           "rivalryNames" : {
 
           },
@@ -1212,7 +1212,7 @@
         {
           "abbreviation" : "DUKE",
           "prestige" : "65",
-          "hexColor" : "#E48130",
+          "hexColor" : "#003087",
           "rivalryNames" : {
 
           },
@@ -1268,7 +1268,7 @@
         {
           "abbreviation" : "FSU",
           "prestige" : "85",
-          "hexColor" : "#006600",
+          "hexColor" : "#782F40",
           "rivalryNames" : {
 
           },
@@ -1324,7 +1324,7 @@
         {
           "abbreviation" : "GT",
           "prestige" : "75",
-          "hexColor" : "#FFCC13",
+          "hexColor" : "#B3A369",
           "rivalryNames" : {
 
           },
@@ -1380,7 +1380,7 @@
         {
           "abbreviation" : "UMD",
           "prestige" : "75",
-          "hexColor" : "#FFFFCC",
+          "hexColor" : "#E03A3E",
           "rivalryNames" : {
 
           },
@@ -1436,7 +1436,7 @@
         {
           "abbreviation" : "NCST",
           "prestige" : "75",
-          "hexColor" : "#B4B6B8",
+          "hexColor" : "#CC0000",
           "rivalryNames" : {
 
           },
@@ -1492,7 +1492,7 @@
         {
           "abbreviation" : "UNC",
           "prestige" : "80",
-          "hexColor" : "#C5CCCF",
+          "hexColor" : "#7BAFD4",
           "rivalryNames" : {
 
           },
@@ -1548,7 +1548,7 @@
         {
           "abbreviation" : "ND",
           "prestige" : "90",
-          "hexColor" : "#B4985A",
+          "hexColor" : "#C99700",
           "rivalryNames" : {
 
           },
@@ -1604,7 +1604,7 @@
         {
           "abbreviation" : "UVA",
           "prestige" : "75",
-          "hexColor" : "#C6A876",
+          "hexColor" : "#F84C1E",
           "rivalryNames" : {
 
           },
@@ -1660,7 +1660,7 @@
         {
           "abbreviation" : "VT",
           "prestige" : "80",
-          "hexColor" : "#B4985A",
+          "hexColor" : "#630031",
           "rivalryNames" : {
 
           },
