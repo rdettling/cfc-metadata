@@ -1175,7 +1175,7 @@
             "contractYear" : "0"
           },
           "rival" : [
-            "NCST", "GT", "UGA", "FSU", "BAMA", "AUB", "BC"
+            "NCST", "GT", "UGA", "FSU", "BAMA", "AUB", "BC", "ND"
           ],
           "defCoordinator" : {
             "contractLength" : "1",
@@ -1567,7 +1567,7 @@
             "contractYear" : "0"
           },
           "rival" : [
-            "PITT", "PUR", "STAN", "USC", "BC", "MICH", "MSU", "NAVY", "NU"
+            "PITT", "PUR", "STAN", "USC", "BC", "MICH", "MSU", "NAVY", "NU", "CLEM"
           ],
           "defCoordinator" : {
             "contractLength" : "1",
@@ -1742,7 +1742,7 @@
             "contractYear" : "3"
           },
           "rival" : [
-            "TCU"
+            "TCU", "TTU", "OU" 
           ],
           "defCoordinator" : {
             "contractLength" : "4",
@@ -1798,7 +1798,7 @@
             "contractYear" : "2"
           },
           "rival" : [
-            "NEB"
+            "KSU", "IOWA"
           ],
           "defCoordinator" : {
             "contractLength" : "2",
@@ -1854,7 +1854,7 @@
             "contractYear" : "0"
           },
           "rival" : [
-            "KSU"
+            "KSU", "NEB" 
           ],
           "defCoordinator" : {
             "contractLength" : "2",
@@ -1910,7 +1910,7 @@
             "contractYear" : "0"
           },
           "rival" : [
-            "KU"
+            "KU", "NEB", "ISU"
           ],
           "defCoordinator" : {
             "contractLength" : "1",
@@ -1966,7 +1966,7 @@
             "contractYear" : "3"
           },
           "rival" : [
-            "ISU"
+            "OU", "WISC", "CU", "IOWA", "KU", "KSU", "MINN" 
           ],
           "defCoordinator" : {
             "contractLength" : "1",
@@ -2022,7 +2022,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "TEX"
+            "TEX", "OKST", "NEB" 
           ],
           "defCoordinator" : {
             "contractLength" : "2",
@@ -2078,7 +2078,7 @@
             "contractYear" : "2"
           },
           "rival" : [
-            "TTU"
+            "TSA", "OU"
           ],
           "defCoordinator" : {
             "contractLength" : "1",
@@ -2134,7 +2134,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "BAY"
+            "TEX", "TTU", "BAY", "SMU"
           ],
           "defCoordinator" : {
             "contractLength" : "2",
@@ -2190,7 +2190,7 @@
             "contractYear" : "2"
           },
           "rival" : [
-            "OU"
+            "OU", "TAM", "TTU", "TCU"
           ],
           "defCoordinator" : {
             "contractLength" : "3",
@@ -2246,7 +2246,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "OKST"
+            "BAY", "TCU", "TEX"
           ],
           "defCoordinator" : {
             "contractLength" : "3",
@@ -2365,7 +2365,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "ASU"
+            "ASU", "NMEX"
           ],
           "defCoordinator" : {
             "contractLength" : "2",
@@ -2421,7 +2421,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "STAN"
+            "STAN", "UCLA" 
           ],
           "defCoordinator" : {
             "contractLength" : "2",
@@ -2477,7 +2477,7 @@
             "contractYear" : "0"
           },
           "rival" : [
-            "UTAH"
+            "NEB", "UTAH" 
           ],
           "defCoordinator" : {
             "contractLength" : "1",
@@ -2533,7 +2533,7 @@
             "contractYear" : "2"
           },
           "rival" : [
-            "WASH"
+            "WASH", "USC"
           ],
           "defCoordinator" : {
             "contractLength" : "2",
@@ -2589,7 +2589,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "UCLA"
+            "UCLA", "ORE", "STAN", "ND"
           ],
           "defCoordinator" : {
             "contractLength" : "2",
@@ -2645,7 +2645,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "CAL"
+            "CAL", "USC", "ND", "SJSU"
           ],
           "defCoordinator" : {
             "contractLength" : "2",
@@ -2701,7 +2701,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "STAN"
+            "USC", "CAL"
           ],
           "defCoordinator" : {
             "contractLength" : "1",
@@ -2757,7 +2757,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "CU"
+            "CU", "BYU"
           ],
           "defCoordinator" : {
             "contractLength" : "3",
@@ -4010,7 +4010,7 @@
             "contractYear" : "0"
           },
           "rival" : [
-            "NMU"
+            "NMEX"
           ],
           "defCoordinator" : {
             "contractLength" : "2",
@@ -4269,7 +4269,7 @@
           "state" : "Hawaii"
         },
         {
-          "abbreviation" : "Nevada",
+          "abbreviation" : "NEV",
           "prestige" : "65",
           "hexColor" : "#A2ABB2",
           "rivalryNames" : {
@@ -4325,7 +4325,7 @@
           "state" : "Nevada"
         },
         {
-          "abbreviation" : "NMU",
+          "abbreviation" : "NMEX",
           "prestige" : "55",
           "hexColor" : "#CAB577",
           "rivalryNames" : {
