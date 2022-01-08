@@ -2022,7 +2022,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "TEX", "OKST", "NEB" 
+            "TEX", "OKST", "NEB", "BAY" 
           ],
           "defCoordinator" : {
             "contractLength" : "2",
@@ -3424,7 +3424,7 @@
         {
           "abbreviation" : "UCF",
           "prestige" : "75",
-          "hexColor" : "#FFC600",
+          "hexColor" : "#BA9B37",
           "rivalryNames" : {
 
           },
@@ -3480,7 +3480,7 @@
         {
           "abbreviation" : "ECU",
           "prestige" : "65",
-          "hexColor" : "#FFD51F",
+          "hexColor" : "#592A8A",
           "rivalryNames" : {
 
           },
@@ -3536,7 +3536,7 @@
         {
           "abbreviation" : "HOU",
           "prestige" : "70",
-          "hexColor" : "#FDEE8B",
+          "hexColor" : "#C8102E",
           "rivalryNames" : {
 
           },
@@ -3592,7 +3592,7 @@
         {
           "abbreviation" : "MEM",
           "prestige" : "70",
-          "hexColor" : "#FAD001",
+          "hexColor" : "#003087",
           "rivalryNames" : {
 
           },
@@ -3648,7 +3648,7 @@
         {
           "abbreviation" : "NAVY",
           "prestige" : "65",
-          "hexColor" : "#FDBB30",
+          "hexColor" : "#C5B783",
           "rivalryNames" : {
 
           },
@@ -3704,7 +3704,7 @@
         {
           "abbreviation" : "USF",
           "prestige" : "65",
-          "hexColor" : "#D1B07F",
+          "hexColor" : "#006747",
           "rivalryNames" : {
 
           },
@@ -3760,7 +3760,7 @@
         {
           "abbreviation" : "SMU",
           "prestige" : "70",
-          "hexColor" : "#FFCC13",
+          "hexColor" : "#0033A0",
           "rivalryNames" : {
 
           },
@@ -3816,7 +3816,7 @@
         {
           "abbreviation" : "TEM",
           "prestige" : "65",
-          "hexColor" : "#0097D8",
+          "hexColor" : "#9D2235",
           "rivalryNames" : {
 
           },
@@ -3872,7 +3872,7 @@
         {
           "abbreviation" : "TUL",
           "prestige" : "65",
-          "hexColor" : "#C1A05B",
+          "hexColor" : "#006747",
           "rivalryNames" : {
 
           },
@@ -3928,7 +3928,7 @@
         {
           "abbreviation" : "TSA",
           "prestige" : "65",
-          "hexColor" : "#99CCFF",
+          "hexColor" : "#002D72",
           "rivalryNames" : {
 
           },
@@ -3991,7 +3991,7 @@
         {
           "abbreviation" : "AFA",
           "prestige" : "65",
-          "hexColor" : "#D1B07F",
+          "hexColor" : "#003087",
           "rivalryNames" : {
 
           },
@@ -4047,7 +4047,7 @@
         {
           "abbreviation" : "BOI",
           "prestige" : "75",
-          "hexColor" : "#BB8D09",
+          "hexColor" : "#0033A0",
           "rivalryNames" : {
 
           },
@@ -4103,7 +4103,7 @@
         {
           "abbreviation" : "BYU",
           "prestige" : "80",
-          "hexColor" : "#665C50",
+          "hexColor" : "#002E5D",
           "rivalryNames" : {
 
           },
@@ -4159,7 +4159,7 @@
         {
           "abbreviation" : "FRES",
           "prestige" : "70",
-          "hexColor" : "#ADD8E6",
+          "hexColor" : "#DB0032",
           "rivalryNames" : {
 
           },
@@ -4215,7 +4215,7 @@
         {
           "abbreviation" : "HAW",
           "prestige" : "65",
-          "hexColor" : "#AF8706",
+          "hexColor" : "#024731",
           "rivalryNames" : {
 
           },
@@ -4271,7 +4271,7 @@
         {
           "abbreviation" : "NEV",
           "prestige" : "65",
-          "hexColor" : "#A2ABB2",
+          "hexColor" : "#003366",
           "rivalryNames" : {
 
           },
@@ -4327,7 +4327,7 @@
         {
           "abbreviation" : "NMEX",
           "prestige" : "55",
-          "hexColor" : "#CAB577",
+          "hexColor" : "#BA0C2F",
           "rivalryNames" : {
 
           },
@@ -4383,7 +4383,7 @@
         {
           "abbreviation" : "SDSU",
           "prestige" : "70",
-          "hexColor" : "#FF6300",
+          "hexColor" : "#A6192E",
           "rivalryNames" : {
 
           },
@@ -4439,7 +4439,7 @@
         {
           "abbreviation" : "SJSU",
           "prestige" : "65",
-          "hexColor" : "#016540",
+          "hexColor" : "#0055A2",
           "rivalryNames" : {
 
           },
@@ -4495,7 +4495,7 @@
         {
           "abbreviation" : "WYO",
           "prestige" : "65",
-          "hexColor" : "#FFD51F",
+          "hexColor" : "#492F24",
           "rivalryNames" : {
 
           },
@@ -4558,7 +4558,7 @@
         {
           "abbreviation" : "AKR",
           "prestige" : "40",
-          "hexColor" : "#D92D36",
+          "hexColor" : "#041E42",
           "rivalryNames" : {
 
           },
@@ -4614,7 +4614,7 @@
         {
           "abbreviation" : "BGSU",
           "prestige" : "50",
-          "hexColor" : "#FF151A",
+          "hexColor" : "#FE5000",
           "rivalryNames" : {
 
           },
@@ -4670,7 +4670,7 @@
         {
           "abbreviation" : "CMU",
           "prestige" : "50",
-          "hexColor" : "#FD1A41",
+          "hexColor" : "#6A0032",
           "rivalryNames" : {
 
           },
@@ -4726,7 +4726,7 @@
         {
           "abbreviation" : "KENT",
           "prestige" : "50",
-          "hexColor" : "#999999",
+          "hexColor" : "#002664",
           "rivalryNames" : {
 
           },
@@ -4782,7 +4782,7 @@
         {
           "abbreviation" : "MRS",
           "prestige" : "60",
-          "hexColor" : "#BDB76B",
+          "hexColor" : "#00B140",
           "rivalryNames" : {
 
           },
@@ -4838,7 +4838,7 @@
         {
           "abbreviation" : "MIAO",
           "prestige" : "50",
-          "hexColor" : "#00539C",
+          "hexColor" : "#B61E2E",
           "rivalryNames" : {
 
           },
@@ -4894,7 +4894,7 @@
         {
           "abbreviation" : "NIU",
           "prestige" : "50",
-          "hexColor" : "#F41650",
+          "hexColor" : "#BA0C2F",
           "rivalryNames" : {
 
           },
@@ -4950,7 +4950,7 @@
         {
           "abbreviation" : "OHIO",
           "prestige" : "50",
-          "hexColor" : "#01539B",
+          "hexColor" : "#00694E",
           "rivalryNames" : {
 
           },
@@ -5006,7 +5006,7 @@
         {
           "abbreviation" : "TOL",
           "prestige" : "50",
-          "hexColor" : "#DC272A",
+          "hexColor" : "#15397F",
           "rivalryNames" : {
 
           },
@@ -5062,7 +5062,7 @@
         {
           "abbreviation" : "WMU",
           "prestige" : "50",
-          "hexColor" : "#F0B432",
+          "hexColor" : "#6C4023",
           "rivalryNames" : {
 
           },
@@ -5125,7 +5125,7 @@
         {
           "abbreviation" : "APP",
           "prestige" : "60",
-          "hexColor" : "#005893",
+          "hexColor" : "#222222",
           "rivalryNames" : {
 
           },
@@ -5181,7 +5181,7 @@
         {
           "abbreviation" : "ARST",
           "prestige" : "40",
-          "hexColor" : "#F47B20",
+          "hexColor" : "#CC092F",
           "rivalryNames" : {
 
           },
@@ -5237,7 +5237,7 @@
         {
           "abbreviation" : "CCU",
           "prestige" : "60",
-          "hexColor" : "#557565",
+          "hexColor" : "#006F71",
           "rivalryNames" : {
 
           },
@@ -5293,7 +5293,7 @@
         {
           "abbreviation" : "GSOU",
           "prestige" : "50",
-          "hexColor" : "#FFC61E",
+          "hexColor" : "#011E41",
           "rivalryNames" : {
 
           },
@@ -5349,7 +5349,7 @@
         {
           "abbreviation" : "GST",
           "prestige" : "50",
-          "hexColor" : "#E2373E",
+          "hexColor" : "#0039A6",
           "rivalryNames" : {
 
           },
@@ -5405,7 +5405,7 @@
         {
           "abbreviation" : "LT",
           "prestige" : "40",
-          "hexColor" : "#D73347",
+          "hexColor" : "#E31B23",
           "rivalryNames" : {
 
           },
@@ -5461,7 +5461,7 @@
         {
           "abbreviation" : "USA",
           "prestige" : "40",
-          "hexColor" : "#98BFE5",
+          "hexColor" : "#00205B",
           "rivalryNames" : {
 
           },
@@ -5517,7 +5517,7 @@
         {
           "abbreviation" : "TROY",
           "prestige" : "40",
-          "hexColor" : "#C5CCCF",
+          "hexColor" : "#8A2432",
           "rivalryNames" : {
 
           },
@@ -5573,7 +5573,7 @@
         {
           "abbreviation" : "ULL",
           "prestige" : "50",
-          "hexColor" : "#F47820",
+          "hexColor" : "#CE181E",
           "rivalryNames" : {
 
           },
@@ -5629,7 +5629,7 @@
         {
           "abbreviation" : "SMIS",
           "prestige" : "40",
-          "hexColor" : "#EAAB00",
+          "hexColor" : "#FFAB00",
           "rivalryNames" : {
 
           },
@@ -5692,7 +5692,7 @@
         {
           "abbreviation" : "CHA",
           "prestige" : "40",
-          "hexColor" : "#FFAB1B",
+          "hexColor" : "#046A38",
           "rivalryNames" : {
 
           },
@@ -5748,7 +5748,7 @@
         {
           "abbreviation" : "FAU",
           "prestige" : "40",
-          "hexColor" : "#00A6EB",
+          "hexColor" : "#CC0000",
           "rivalryNames" : {
 
           },
@@ -5804,7 +5804,7 @@
         {
           "abbreviation" : "FIU",
           "prestige" : "40",
-          "hexColor" : "#EEE8B7",
+          "hexColor" : "#081E3F",
           "rivalryNames" : {
 
           },
@@ -5860,7 +5860,7 @@
         {
           "abbreviation" : "LIB",
           "prestige" : "50",
-          "hexColor" : "#FCA120",
+          "hexColor" : "#C41230",
           "rivalryNames" : {
 
           },
@@ -5916,7 +5916,7 @@
         {
           "abbreviation" : "UNT",
           "prestige" : "40",
-          "hexColor" : "#A8936B",
+          "hexColor" : "#00853E",
           "rivalryNames" : {
 
           },
@@ -5972,7 +5972,7 @@
         {
           "abbreviation" : "ODU",
           "prestige" : "40",
-          "hexColor" : "#DCDCDB",
+          "hexColor" : "#003057",
           "rivalryNames" : {
 
           },
@@ -6028,7 +6028,7 @@
         {
           "abbreviation" : "UTEP",
           "prestige" : "40",
-          "hexColor" : "#F68428",
+          "hexColor" : "#FF8200",
           "rivalryNames" : {
 
           },
@@ -6084,7 +6084,7 @@
         {
           "abbreviation" : "UTSA",
           "prestige" : "40",
-          "hexColor" : "#005893",
+          "hexColor" : "#F15A22",
           "rivalryNames" : {
 
           },
@@ -6140,7 +6140,7 @@
         {
           "abbreviation" : "UAB",
           "prestige" : "50",
-          "hexColor" : "#B4985A",
+          "hexColor" : "#006341",
           "rivalryNames" : {
 
           },
@@ -6196,7 +6196,7 @@
         {
           "abbreviation" : "WKU",
           "prestige" : "50",
-          "hexColor" : "#194896",
+          "hexColor" : "#C60C30",
           "rivalryNames" : {
 
           },
@@ -6259,7 +6259,7 @@
         {
           "abbreviation" : "SAM",
           "prestige" : "25",
-          "hexColor" : "#EA4B0F",
+          "hexColor" : "#F56423",
           "rivalryNames" : {
 
           },
@@ -6315,7 +6315,7 @@
         {
           "abbreviation" : "JMU",
           "prestige" : "25",
-          "hexColor" : "#7F7F7F",
+          "hexColor" : "#450084",
           "rivalryNames" : {
 
           },
@@ -6371,7 +6371,7 @@
         {
           "abbreviation" : "NDSU",
           "prestige" : "25",
-          "hexColor" : "#A59260",
+          "hexColor" : "#0A5640",
           "rivalryNames" : {
 
           },
@@ -6427,7 +6427,7 @@
         {
           "abbreviation" : "JCK",
           "prestige" : "25",
-          "hexColor" : "#E51937",
+          "hexColor" : "#002147",
           "rivalryNames" : {
 
           },
@@ -6483,7 +6483,7 @@
         {
           "abbreviation" : "FLAM",
           "prestige" : "25",
-          "hexColor" : "#D1D1B5",
+          "hexColor" : "#EE7624",
           "rivalryNames" : {
 
           },
@@ -6539,7 +6539,7 @@
         {
           "abbreviation" : "EWU",
           "prestige" : "25",
-          "hexColor" : "#EE3024",
+          "hexColor" : "#A10022",
           "rivalryNames" : {
 
           },
@@ -6595,7 +6595,7 @@
         {
           "abbreviation" : "NIO",
           "prestige" : "25",
-          "hexColor" : "#004B97",
+          "hexColor" : "#4B116F",
           "rivalryNames" : {
 
           },
@@ -6651,7 +6651,7 @@
         {
           "abbreviation" : "MON",
           "prestige" : "25",
-          "hexColor" : "#0675D0",
+          "hexColor" : "#660033",
           "rivalryNames" : {
 
           },
@@ -6707,7 +6707,7 @@
         {
           "abbreviation" : "SIU",
           "prestige" : "25",
-          "hexColor" : "#EAAB00",
+          "hexColor" : "#720000",
           "rivalryNames" : {
 
           },
@@ -6763,7 +6763,7 @@
         {
           "abbreviation" : "JVL",
           "prestige" : "25",
-          "hexColor" : "#FCA120",
+          "hexColor" : "#CC0000",
           "rivalryNames" : {
 
           },
@@ -6823,12 +6823,12 @@
     }
   ],
   "bowlGames" : [
-    "Lilac Bowl",
-    "Apple Bowl",
-    "Salty Bowl",
-    "Salsa Bowl",
-    "Mango Bowl",
-    "Party Bowl",
+    "Rose Bowl",
+    "Fiesta Bowl",
+    "Cotton Bowl",
+    "Sugar Bowl",
+    "Orange Bowl",
+    "Peach Bowl",
     "Patriot Bowl",
     "Salad Bowl",
     "Frost Bowl",
